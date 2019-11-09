@@ -21,8 +21,8 @@ Earth_Sun_Distance_Table=[
 
 ]
 
-L3_ExoAtmospheric_Irradiance=[181.53,155.92,108.96,24.38]
-C2E_MX_ExoAtmospheric_Irradiance=[197.91, 182.37, 157.38, 110.22]
+L3_ExoAtmospheric_Irradiance=[145.23,125.92,85.96,745.38]
+C2E_MX_ExoAtmospheric_Irradiance=[178.91, 102.37, 125.38, 213.22]
 
 
 #--- FUNCTIONS ----
